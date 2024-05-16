@@ -7,4 +7,5 @@ It conatins a database called library and six tables as follows:
 4. Customer
 5. IssueStatus
 6. ReturnStatus
+
 This helps librarian to maintain the database of new books and the books that are borrowed by members along with their issued dates.
